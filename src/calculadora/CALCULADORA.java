@@ -24,5 +24,7 @@ public class CALCULADORA {
         float restar(float a, float b){
         return a-b;
         }
-        
+         float multi(float a, float b){
+        return a*b;
+        }
 }
