@@ -16,6 +16,13 @@ public class CALCULADORA {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+       
     }
-    
+        float sumar (float a, float b){
+        return a+b;
+     }
+        float restar(float a, float b){
+        return a-b;
+        }
+        
 }
