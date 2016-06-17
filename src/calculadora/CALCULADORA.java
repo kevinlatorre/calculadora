@@ -28,6 +28,11 @@ public class CALCULADORA {
         return a*b;
         }
           float divicion(float a, float b){
+              if (b==0){
+                 System.out.print("no se puede imprimir"); 
+                 return -1;
+              }
+                  
         return a/b;
         }
 }
